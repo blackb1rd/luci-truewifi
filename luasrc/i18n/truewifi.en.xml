@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<i18n:msgs xmlns="http://www.w3.org/1999/xhtml">
+
+<i18n:msg xml:id="truewifi">Truewifi</i18n:msg>
+<i18n:msg xml:id="truewifi_desc">Scritp auto connect @TRUEWIFI</i18n:msg>
+<i18n:msg xml:id="truewifi_truewifi_time">Time for reconnect</i18n:msg>
+<i18n:msg xml:id="truewifi_truewifi_time_desc">Minute</i18n:msg>
+
+</i18n:msgs>
