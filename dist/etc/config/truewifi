@@ -1,5 +1,0 @@
-config 'truewifi' 'setting'
-	option 'disabled' '1'
-	option 'username' 'usernameinput'
-	option 'password' 'passwordinput'
-	option 'time' '175'
