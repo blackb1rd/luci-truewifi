@@ -1,3 +1,3 @@
 luci-truewifi
 =============
-Porject is not completed,please waiting for update.
+Porject was not completed,please waiting for update.
