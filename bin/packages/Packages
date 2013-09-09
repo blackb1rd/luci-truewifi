@@ -1,0 +1,29 @@
+Package: luci-app-truewifi
+Version: 0.8.8-1
+Depends: luci-core, luci-admin-full, truewifi
+Provides: 
+Source: feeds/luci/luci
+Section: admin
+Priority: optional
+Maintainer: Steven Barth <steven-at-midlink-dot-org>
+Architecture: mipsel
+Installed-Size: 42483
+Filename: luci-app-truewifi_0.8.8-1_mipsel.ipk
+Size: 1758
+MD5Sum: 1c18da85451b9e31e9941aff3a1cb5fb
+Description:  LuCI Script auto connect Truewifi addon
+
+Package: truewifi
+Version: 1-1
+Depends: libcurl, libopenssl
+Provides: 
+Source: feeds/luci/truewifi
+Section: opt
+Priority: optional
+Maintainer: s4m3l0 <blackb1rd@riseup.net>
+Architecture: all
+Installed-Size: 27025
+Filename: truewifi_1-1_all.ipk
+Size: 1616
+MD5Sum: d8878cdbb18f6a5f393cce04cdcd2681
+Description:  Script auto connect @TRUEWIFI
