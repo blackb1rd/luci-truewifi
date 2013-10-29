@@ -1,8 +1,7 @@
 --[[
 LuCI - auto connect @TRUEWIFI
 
-Copyright 2008 Steven Barth <steven@midlink.org>
-Copyright 2008 Jo-Philipp Wich <xm@leipzig.freifunk.net>
+Copyright 2013 s4m3l0 <blackb1rd@riseup.net>
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
