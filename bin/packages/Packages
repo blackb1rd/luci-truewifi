@@ -5,7 +5,7 @@ Provides:
 Source: feeds/luci/luci
 Section: admin
 Priority: optional
-Maintainer: s4m3l0 <blackb1rd-at-riseup-dot-net>
+Maintainer: blackb1rd <blackb1rd@blackb1rd.me>
 Architecture: mipsel
 Installed-Size: 42483
 Filename: luci-app-truewifi_0.8.8-1_mipsel.ipk
@@ -20,7 +20,7 @@ Provides:
 Source: feeds/luci/truewifi
 Section: opt
 Priority: optional
-Maintainer: s4m3l0 <blackb1rd@riseup.net>
+Maintainer: blackb1rd <blackb1rd@blackb1rd.me>
 Architecture: all
 Installed-Size: 27025
 Filename: truewifi_1-1_all.ipk
