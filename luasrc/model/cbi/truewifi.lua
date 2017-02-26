@@ -1,7 +1,7 @@
 --[[
 LuCI - auto connect @TRUEWIFI
 
-Copyright 2013-2016 Prachya Saechua <blackb1rd@riseup.net>
+Copyright 2013-2017 Prachya Saechua <blackb1rd@riseup.net>
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
